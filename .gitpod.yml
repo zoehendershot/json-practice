@@ -1,3 +1,0 @@
-tasks:
-  - name: Install jq
-    before: sudo apt install -y jq
